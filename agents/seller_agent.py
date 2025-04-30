@@ -8,4 +8,4 @@ class SellerAgent(Agent):
         self.listed = True
 
     def step(self):
-        pass  # Verkäufer:innen sind passiv, Listing bleibt bestehen
+        pass

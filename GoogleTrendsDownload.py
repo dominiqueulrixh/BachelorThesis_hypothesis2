@@ -24,7 +24,7 @@ seller_kw_list = [
 # --- Käuferdaten holen ---
 print("🔎 Lade Käuferdaten...")
 pytrends.build_payload(buyer_kw_list, cat=0, timeframe='today 12-m', geo='CH')
-time.sleep(2)  # Kurze Pause nach Build Payload
+time.sleep(2)
 df_buyer = pytrends.interest_over_time()
 
 if df_buyer.empty:
