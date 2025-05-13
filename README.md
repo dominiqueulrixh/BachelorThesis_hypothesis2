@@ -37,7 +37,7 @@ Der Fokus liegt auf der Nachfrageseite: Die Aktivierung von Käuferagenten wird 
 
 ## Ergebnisse
 
-- Leicht erhöhte Transaktionsrate** bei Trend-Aktivierung im Vergleich zur Zufallslogik
+- Leicht erhöhte Transaktionsrate bei Trend-Aktivierung im Vergleich zur Zufallslogik
 - Vor allem im Jahresverlauf sichtbarer Vorsprung zugunsten der verhaltensbasierten Steuerung
 - Trendsignale führten zu besserem „Timing“ der Käuferaktivierung in Hochphasen des Suchinteresses
 
