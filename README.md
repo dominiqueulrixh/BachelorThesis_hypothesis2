@@ -6,7 +6,7 @@ Diese Simulation untersucht die Hypothese, dass verhaltensbasierte Daten, konkre
 
 ## Ziel der Hypothese
 
-> Verhaltensbasierte Daten wie Google-Suchtrends ermöglichen eine frühzeitigere und präzisere Vorhersage von Angebots- und Nachfrageschwankungen auf dem Immobilienmarkt als rein strukturbezogene Agenteninteraktionen.
+> Verhaltensbasierte Daten wie Google-Suchtrends ermöglichen eine frühzeitigere und prä-zisere Vorhersage von Angebots- und Nachfrageschwankungen auf dem Immobilienmarkt als rein strukturbezogene Agenteninteraktionen.
 
 Der Fokus liegt auf der Nachfrageseite: Die Aktivierung von Käuferagenten wird nicht mehr zufällig, sondern auf Grundlage realer Trendsignale gesteuert.
 
